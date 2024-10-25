@@ -1,0 +1,14 @@
+O que são variáveis?
+    São containers/caixas/grupos aonde ficam armazenados valores que podem ser alterados ou não.
+
+Quais os principais tipos?
+    Numérica,Caracteres,lógicas
+    >String -> São textos ou Caracteres
+    >Int -> Numeros Inteiros
+    >Float -> Números Fracionários
+    >Boleano -> Verdadeiro ou Falso
+
+Qual a diferença de variáveis e constantes?
+    > Variável : Pode ser alterada  
+    > Constante : Não sofre alteração em seu conteúdo.
+
